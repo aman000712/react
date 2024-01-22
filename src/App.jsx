@@ -251,9 +251,6 @@ function App() {
               <div>
                 subscribes
               </div>
-              <div>
-                aman
-              </div>
             </div>
           </div>
         </div>
