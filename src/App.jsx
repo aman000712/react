@@ -252,6 +252,36 @@ function App() {
                 subscribes
               </div>
             </div>
+            <div>
+              <div>
+                <div>
+                  travel
+                </div>
+                <div>
+                  lifestyle
+                </div>
+                <div>
+                  sports
+                </div>
+                <div>
+                  nature
+                </div>
+              </div>
+              <div>
+                <div>
+                  connect with us
+                </div>
+                <div>
+                  fb
+                </div>
+                <div>
+                  twitter
+                </div>
+                <div>
+                  insta
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
