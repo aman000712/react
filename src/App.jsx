@@ -267,7 +267,7 @@ function App() {
                   nature
                 </div>
               </div>
-              <div className='bg-yello-500'>
+              <div className='bg-yellow-500'>
                 <div>
                   connect with us
                 </div>
