@@ -238,7 +238,7 @@ function App() {
                 </p>
               </div>
             </div>
-            <div>
+            <div className='bg-red-500'>
               <div>
                 about us
               </div>
