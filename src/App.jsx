@@ -227,7 +227,7 @@ function App() {
           </div>
         </div>
         <div className=' bg-slate-600 h-lvh'>
-          <div className='flex'>
+          <div className='flex w-64'>
             <div>
               <div>
                 about us
@@ -267,7 +267,7 @@ function App() {
                   nature
                 </div>
               </div>
-              <div>
+              <div className='bg-yello-500'>
                 <div>
                   connect with us
                 </div>
