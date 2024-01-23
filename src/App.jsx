@@ -227,7 +227,7 @@ function App() {
           </div>
         </div>
         <div className=' bg-slate-600 h-lvh'>
-          <div className='flex flex-col'>
+          <div className='flex'>
             <div>
               <div>
                 about us
