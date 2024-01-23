@@ -226,7 +226,7 @@ function App() {
             </div>
           </div>
         </div>
-        <div className=' bg-slate-600 h-lvh'>
+        <div className=' bg-slate-600 h-lvh p-1'>
           <div className='flex w-1/2'>
             <div>
               <div>
